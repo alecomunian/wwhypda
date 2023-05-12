@@ -1,16 +1,16 @@
 # README #
 
-This is the readme file of the wwhypda project. It contains the MySQL and the SQLite version of the project database.
+This is the `README.md` file of the wwhypda reposotory. It contains the MySQL and the SQLite version of the project database.
 
 Please note that other versions of the database and tools related to
 the wwhypda project exists. For more information, please visit
 [https://wwhypda.bitbucket.io/](https://wwhypda.bitbucket.io/).
 
-All the details and the Manifesto of the wwhypda project can be found
+Many details and the Manifesto of the wwhypda project can be found
 in the pubblication by A.Comunian and P.Renard (2009) *Introducing
 wwhypda: a world-wide collaborative hydrogeological parameters
 database*, Hydrogeology Journal 17(2) DOI:
-[10.1007/s10040-008-0387-x](http://dx.doi.org/10.1007/s10040-008-0387-x), and **downloaded as pdf** [here](http://rdcu.be/yGrx)
+[10.1007/s10040-008-0387-x](http://dx.doi.org/10.1007/s10040-008-0387-x), that can be downloaded as [PDF here](http://rdcu.be/yGrx).
 
 ## What is this repository for? ##
 
