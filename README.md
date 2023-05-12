@@ -1,8 +1,6 @@
 # README #
 
-This is the readme file of the wwhypda project. It contains
-- the MySQL version of the project database.
-- the SQLite version of the project database.
+This is the readme file of the wwhypda project. It contains the MySQL and the SQLite version of the project database.
 
 Please note that other versions of the database and tools related to
 the wwhypda project exists. For more information, please visit
