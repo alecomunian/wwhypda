@@ -10,7 +10,7 @@ All the details and the Manifesto of the wwhypda project can be found
 in the pubblication by A.Comunian and P.Renard (2009) *Introducing
 wwhypda: a world-wide collaborative hydrogeological parameters
 database*, Hydrogeology Journal 17(2) DOI:
-[10.1007/s10040-008-0387-x](http://dx.doi.org/10.1007/s10040-008-0387-x), and downloaded as [pdf here](http://rdcu.be/yGrx)
+[10.1007/s10040-008-0387-x](http://dx.doi.org/10.1007/s10040-008-0387-x), and **downloaded as pdf** [here](http://rdcu.be/yGrx)
 
 ## What is this repository for? ##
 
