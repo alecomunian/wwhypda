@@ -5,6 +5,7 @@ This is the `README.md` file of the wwhypda reposotory. It contains the MySQL an
 Please note that other versions of the database and tools related to
 the wwhypda project exists. For more information, please visit
 [https://wwhypda.bitbucket.io/](https://wwhypda.bitbucket.io/).
+The content of this repository is replicated in both [bitbucket](https://bitbucket.org/wwhypda/wwhypda) and [github](https://github.com/alecomunian/wwhypda).
 
 Many details and the Manifesto of the wwhypda project can be found
 in the pubblication by A.Comunian and P.Renard (2009) *Introducing
