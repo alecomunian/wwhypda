@@ -61,3 +61,7 @@ The database was conceived by
 [A.Comunian](https//sites.unimi.it/alecomunian) and
 [P.Renard](https://www.unine.ch/philippe.renard/home/the-team/philippe-renard.html). Please
 contact one of them for more information.
+
+## Release ##
+This repository has a unique DOI on Zenodo, so that you can refer uniquely to that if you are using the dataset:
+[![DOI](https://zenodo.org/badge/639908748.svg)](https://zenodo.org/badge/latestdoi/639908748)
