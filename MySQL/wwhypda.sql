@@ -104,7 +104,28 @@ CREATE TABLE `Contact` (
 
 LOCK TABLES `Contact` WRITE;
 /*!40000 ALTER TABLE `Contact` DISABLE KEYS */;
-INSERT INTO `Contact` VALUES (25,'Makiala Kisanga','alessandro.comunian@unine.ch',0,'kisangamak','xxx',2,0),(26,'Alessandro Comunian','alessandro.comunian@unine.ch',0,'comuniana','xxx',2,0),(27,'Philippe Renard','philippe.renard@unine.ch',0,'renardp','xxx',2,0),(35,'Goetz Aust','gaust@matrix-solutions.com',0,'gaust','xxx',2,0),(36,'Julien Straubhaar','julien.straubhaar@unine.ch',0,'jstraubhaa','xxx',2,0),(37,'Georges COMPAORE','saerh@fasonet.bf',0,'yiryande','xxx',2,0),(38,'Riccardo Torri','torri@seaconsult.eu',0,'torri','xxx',2,0),(39,'Giona Preisig','giona.preisig@unine.ch',0,'preisigg','xxx',2,0),(40,'Tanja Petrovic','tanitap@gmail.com',0,'tanitap','xxx',2,0),(41,'Vincent Willi','vincent.willi@isska.ch',0,'vwilli','xxx',2,0),(42,'Todd Hamilton','Todd.Hamilton@mwhglobal.com',0,'hammy','xxx',2,0),(43,'Didier Vanden Berghe','didiervberghe@yahoo.fr',0,'didiervber','xxx',2,0),(44,'Andrea Borghi','andrea.borghi@unine.ch',0,'danduk23','xxx',2,0),(45,'Brett Sinclair','bsinclair@golder.co.nz',0,'bsinclair','xxx',2,0),(46,'Dave Colvin','colvin_dave@hotmail.com',0,'colvind','xxx',2,0),(47,'Patrick Oldendorf','patrick.oldendorf@epfl.ch',0,'oldendor','xxx',2,0),(48,'Sylvain Tissot','sylvain.tissot@ecodev.ch',0,'stissot','xxx',2,0),(49,'Wolfgang Nowak','wolfgang.nowak@iws.uni-stuttgart.de',0,'wnowak','xxx',2,0),(50,'Sergey Oladyshkin','Sergey.Oladyshkin@iws.uni-stuttgart.de',0,'oladyshkin','xxx',2,0),(51,'Paulo Henrique Pereira dos Santos','paulo.santos@erm.com',0,'PSantos','xxx',2,0),(52,'JEAN-FRANCOIS VUILLAUME','fj.vuill@gmail.com',0,'jfvuill','xxx',2,0);
+INSERT INTO `Contact` VALUES
+(25,'M K','a.c@unine.ch',0,'kisangamak','xxx',2,0),
+(26,'A C','a.c@unine.ch',0,'comuniana','xxx',2,0),
+(27,'P R','p.r@unine.ch',0,'renardp','xxx',2,0),
+(35,'G A','g.a@matrix-solutions.com',0,'gaust','xxx',2,0),
+(36,'J S','j.s@unine.ch',0,'jstraubhaa','xxx',2,0),
+(37,'G C','g.c@fasonet.bf',0,'yiryande','xxx',2,0),
+(38,'R T','r.t@seaconsult.eu',0,'torri','xxx',2,0),
+(39,'G P','g.p@unine.ch',0,'preisigg','xxx',2,0),
+(40,'T P','t.p@gmail.com',0,'tanitap','xxx',2,0),
+(41,'V W','v.w@isska.ch',0,'vwilli','xxx',2,0),
+(42,'T H','T.H@mwhglobal.com',0,'hammy','xxx',2,0),
+(43,'D V B','d.v@yahoo.fr',0,'didiervber','xxx',2,0),
+(44,'A B','a.b@unine.ch',0,'danduk23','xxx',2,0),
+(45,'B S','b.s@golder.co.nz',0,'bsinclair','xxx',2,0),
+(46,'D C','d.c@hotmail.com',0,'colvind','xxx',2,0),
+(47,'P O','p.o@epfl.ch',0,'oldendor','xxx',2,0),
+(48,'S T','s.t@ecodev.ch',0,'stissot','xxx',2,0),
+(49,'W N','w.n@iws.uni-stuttgart.de',0,'wnowak','xxx',2,0),
+(50,'S O','s.o@iws.uni-stuttgart.de',0,'oladyshkin','xxx',2,0),
+(51,'P H P S','p.p@erm.com',0,'PSantos','xxx',2,0),
+(52,'J-F V','j.v@gmail.com',0,'jfvuill','xxx',2,0);
 /*!40000 ALTER TABLE `Contact` ENABLE KEYS */;
 UNLOCK TABLES;
 
